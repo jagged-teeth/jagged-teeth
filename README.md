@@ -14,7 +14,7 @@ As I delved into passionate readings of novels from various countries, and embra
 
 ### :earth_asia: Embracing Diversity
 
-Having spent three years in the United States during my youth, I had the opportunity to interact with people from diverse backgrounds and cultures. This experience broadened my horizons and instilled in me a deep appreciation for diversity and inclusivity. It also taught me the importance of empathy and effective communication, skills that are crucial in both programming and life. As a backpacker, I traveled through Asia for three months, immersing myself in different cultures and embracing the beauty of the unknown. These experiences ignited my passion for exploration and taught me the value of adaptability and open-mindedness.
+As a backpacker, I traveled through Europe, Asia and the United-States, immersing myself in different cultures and embracing the beauty of the unknown. These experiences broadened my horizons and instilled in me a deep appreciation for diversity and inclusivity. It also taught me the importance of empathy and effective communication, skills that are crucial in both programming and life.
 
 ### :video_game: Passion for Videogames
 
@@ -22,7 +22,7 @@ Apart from coding, I have a deep passion for videogames. I find them to be a rem
 
 ### :hammer_and_wrench: From Welding to Programming
 
-My journey has been anything but linear. I've worn multiple hats throughout my life, including working as a welder, boilermaker and industrial designer. These experiences provided me with a hands-on approach to problem-solving and honed my attention to detail. However, my curiosity eventually led me to explore the world of programming, where I discovered a new realm of creativity and endless possibilities.
+My journey has been anything but linear. I've worn multiple hats throughout my life, including working as a welder, boilermaker and industrial designer. These diverse experiences have not only honed my technical skills but also instilled in me a remarkable ability to adapt to new challenges. Transitioning from the physical realm to the world of programming was a significant turning point in my life. It required a shift in perspective and the mastery of a new set of tools. However, my innate curiosity and adaptability served me well in this transition.
 
 # Projects I'm Proud of
 
