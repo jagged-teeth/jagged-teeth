@@ -7,14 +7,19 @@
 </div>
 
 ### :bulb: Curiosity is My Driving Force
+I believe that curiosity is the key to continuous growth and personal development. Throughout my life, I've been fortunate to embark on various adventures that have shaped my perspective.
 
-I believe that curiosity is the key to continuous growth and personal development. Throughout my life, I've been fortunate to embark on various adventures that have shaped my perspective. As a backpacker, I traveled through Asia for three months, immersing myself in different cultures and embracing the beauty of the unknown. These experiences ignited my passion for exploration and taught me the value of adaptability and open-mindedness.
+I grew up in Arizona, surrounded by deserts, cacti, and American culture. The vivid memories of that period are etched in my mind. The scorching heat of Phoenix carries a distinct scent that is incomparable to the lush humidity of France, where I returned in 1996.
+
+Inspired by movies like "Matrix" and "Ghost In the Shell," RPG video-games such as "Knights of the Old Republic" and "Mass Effect," and animes like "Serial Experiment Lain," I developed a deep passion for science fiction and the realms of imagination.
+
+As I delved into passionate readings of novels from various countries, and embraced the open-mindedness instilled in me by my family, I also explored niche music genres, which I practice on my computer.
 
 ### :earth_asia: Embracing Diversity
 
-Having spent three years in the United States during my youth, I had the opportunity to interact with people from diverse backgrounds and cultures. This experience broadened my horizons and instilled in me a deep appreciation for diversity and inclusivity. It also taught me the importance of empathy and effective communication, skills that are crucial in both programming and life.
+Having spent three years in the United States during my youth, I had the opportunity to interact with people from diverse backgrounds and cultures. This experience broadened my horizons and instilled in me a deep appreciation for diversity and inclusivity. It also taught me the importance of empathy and effective communication, skills that are crucial in both programming and life. As a backpacker, I traveled through Asia for three months, immersing myself in different cultures and embracing the beauty of the unknown. These experiences ignited my passion for exploration and taught me the value of adaptability and open-mindedness.
 
-## :video_game: Passion for Videogames
+### :video_game: Passion for Videogames
 
 Apart from coding, I have a deep passion for videogames. I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
 
