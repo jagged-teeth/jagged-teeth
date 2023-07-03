@@ -41,7 +41,7 @@ Skills acquired:
 
 ### [WEBSERV](https://github.com/ouafabulous/webserv_42)
 
-WEBSERV is a fully configurable home-made web server implemented in C++. It follows the HTTP/1.1 RFC and employs an IO concurrent design pattern to serve as many successful requests as possible. The server can handle operations such as GET/POST/DELETE files, directory listing, and CGI execution.
+Webserv is a fully configurable home-made web server implemented in C++. It follows the HTTP/1.1 RFC and employs an IO concurrent design pattern to serve as many successful requests as possible. The server can handle operations such as GET/POST/DELETE files, directory listing, and CGI execution.
 
 Skills acquired:
 - TCP connections via system calls (epoll, socket, accept, listen, send, recv, ...)
@@ -51,7 +51,7 @@ Skills acquired:
 
 ### [MINISHELL](https://github.com/DimiOui/minishell)
 
-MINISHELL is an implementation from scratch in C of a bash interpreter. It utilizes various Unix system calls such as fork, pipe, signal, stat, and execve to provide a functional shell environment.
+Minishell is an implementation from scratch in C of a bash interpreter. It utilizes various Unix system calls such as fork, pipe, signal, stat, and execve to provide a functional shell environment.
 
 Skills acquired:
 - Unix system calls (fork, pipe, signal, stat, execve, ...)
