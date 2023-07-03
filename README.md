@@ -1,4 +1,4 @@
-# About Me
+ # About Me
 
 ### :man_technologist: Hi, I'm Dimi, a passionate learner and aspiring developer currently studying at [42School](https://42.fr/en/homepage/).
 
@@ -9,8 +9,8 @@
 ### :bulb: Curiosity is My Driving Force
 I believe that curiosity is the key to continuous growth and personal development. Throughout my life, I've been fortunate to embark on various adventures that have shaped my perspective.
 I grew up in Arizona, surrounded by deserts, cacti, and American culture. The vivid memories of that period are etched in my mind. The scorching heat of Phoenix carries a distinct scent that is incomparable to the lush humidity of France, where I returned in 1996.
-Inspired by movies like "Matrix" and "Ghost In the Shell," RPG video-games such as "Knights of the Old Republic" and "Mass Effect," and animes like "Serial Experiment Lain," I developed a deep passion for science fiction and the realms of imagination.
-As I delved into passionate readings of novels from various countries, and embraced the open-mindedness instilled in me by my family, I also explored niche music genres, which I practice on my computer.
+Inspired by movies like "Matrix" and "Ghost In the Shell," RPG video-games such as "Knights of the Old Republic" and "Mass Effect," and animes like "Serial Experiment Lain," I developed a deep passion for science-fiction and the realms of imagination.
+As I delved into passionate readings of novels from various countries, and embraced the open-mindedness instilled in me by my family, I also explored niche music genres, which I practice today on my computer.
 
 ### :earth_asia: Embracing Diversity
 
@@ -18,7 +18,7 @@ As a backpacker, I traveled through Europe, Asia and the United-States, immersin
 
 ### :video_game: Passion for Videogames
 
-Apart from coding, I have a deep passion for videogames. I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
+Apart from coding, I have a deep passion for videogames, always eager to discover the latest releases in the industry (recently Dave The Diver and Diablo IV). I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
 
 ### :hammer_and_wrench: From Welding to Programming
 
@@ -35,7 +35,7 @@ Ft_transcendance is a Docker-compose deployable webgame that features social-net
 Skills acquired:
 - REST API concepts.
 - Websockets.
-- Multiplayer network gaming concepts (prediction, latency management)
+- Multiplayer network gaming concepts (prediction, latency management, ...)
 - Interface between NestJS Object-oriented data-structure and PostgreSQL relational database via Prisma.
 - Authentication and authorization standards (OAuth2, JWT, Password hashing, TOTP).
 
