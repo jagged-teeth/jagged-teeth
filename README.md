@@ -24,38 +24,45 @@ Apart from coding, I have a deep passion for videogames, always eager to discove
 
 My journey has been anything but linear. I've worn multiple hats throughout my life, including working as a welder, boilermaker and industrial designer. These diverse experiences have not only honed my technical skills but also instilled in me a remarkable ability to adapt to new challenges. Transitioning from the physical realm to the world of programming was a significant turning point in my life. It required a shift in perspective and the mastery of a new set of tools. However, my innate curiosity and adaptability served me well in this transition.
 
-# Projects I'm Proud of
+## Projects I'm Proud of
 
 I'm delighted to share some of my favorite projects that I've worked on:
 
-### [FT_TRANSCENDANCE](https://github.com/misteriaud/ft_transcendence)
+<details>
+ <summary>FT_TRANSCENDANCE</summary>
 
-Ft_transcendance is a Docker-compose deployable webgame that features social-networking mechanisms such as friendships, direct-messages, and profile pictures. It includes a real-time multiplayer version of the classic game Pong and a chatroom with administration roles. The project also implements authentication using OAuth2 (through the 42school provider) and a 2FA-TOTP implementation. It is built on top of NestJS as the backend, PostgreSQL as the database, and ReactJS/Tailwind as the frontend.
+ ### Project description
+[Ft_transcendance](https://github.com/misteriaud/ft_transcendence) is a Docker-compose deployable webgame that features social-networking mechanisms such as friendships, direct-messages, and profile pictures. It includes a real-time multiplayer version of the classic game Pong and a chatroom with administration roles. The project also implements authentication using OAuth2 (through the 42school provider) and a 2FA-TOTP implementation. It is built on top of NestJS as the backend, PostgreSQL as the database, and ReactJS/Tailwind as the frontend.
 
-Skills acquired:
+### Skills acquired
 - REST API concepts.
 - Websockets.
 - Multiplayer network gaming concepts (prediction, latency management, ...)
 - Interface between NestJS Object-oriented data-structure and PostgreSQL relational database via Prisma.
 - Authentication and authorization standards (OAuth2, JWT, Password hashing, TOTP).
+</details>
+<details>
+ <summary>WEBSERV</summary>
+ 
+### Project description
+[Webserv](https://github.com/ouafabulous/webserv_42) is a fully configurable home-made web server implemented in C++. It follows the HTTP/1.1 RFC and employs an IO concurrent design pattern to serve as many successful requests as possible. The server can handle operations such as GET/POST/DELETE files, directory listing, and CGI execution.
 
-### [WEBSERV](https://github.com/ouafabulous/webserv_42)
-
-Webserv is a fully configurable home-made web server implemented in C++. It follows the HTTP/1.1 RFC and employs an IO concurrent design pattern to serve as many successful requests as possible. The server can handle operations such as GET/POST/DELETE files, directory listing, and CGI execution.
-
-Skills acquired:
+### Skills acquired
 - TCP connections via system calls (epoll, socket, accept, listen, send, recv, ...)
 - Event-driven architecture and concurrent computing.
 - RFC/Protocols understanding.
 - Fault-tolerance design.
+</details>
+<details>
+ <summary>MINISHELL</summary>
+ 
+### Project Description
+[Minishell](https://github.com/DimiOui/minishell) is an implementation from scratch in C of a bash interpreter. It utilizes various Unix system calls such as fork, pipe, signal, stat, and execve to provide a functional shell environment.
 
-### [MINISHELL](https://github.com/DimiOui/minishell)
-
-Minishell is an implementation from scratch in C of a bash interpreter. It utilizes various Unix system calls such as fork, pipe, signal, stat, and execve to provide a functional shell environment.
-
-Skills acquired:
+### Skills acquired
 - Unix system calls (fork, pipe, signal, stat, execve, ...)
 - Parallel execution.
+</details>
 
 Feel free to explore more of my projects on [GitHub](https://github.com/DimiOui/)!
 
@@ -65,7 +72,11 @@ I am currently seeking a 6-month internship opportunity where I can apply my ski
 
 If you have any internship opportunities or would like to discuss potential collaborations, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimitri-paccagnini/).
 
-Thank you for taking the time to explore my profile. I hope you find my projects intriguing and my passion for learning and creating evident. Let's connect and create something amazing together!
+<br/>
+<br/>
+<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimiOui&theme=dark&hide_border=true&border_radius=60&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimiOui&hide_border=true&border_radius=60&layout=compact&theme=dark&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimiOui&theme=dark&hide_border=true&border_radius=3&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimiOui&hide_border=true&border_radius=3&layout=compact&theme=dark&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+
+Thank you for taking the time to explore my profile. I hope you find my projects intriguing and my passion for learning and creating evident. Let's connect and create something amazing together!
