@@ -67,3 +67,5 @@ If you have any internship opportunities or would like to discuss potential coll
 
 Thank you for taking the time to explore my profile. I hope you find my projects intriguing and my passion for learning and creating evident. Let's connect and create something amazing together!
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimiOui&theme=dark&hide_border=true&border_radius=60&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimiOui&hide_border=true&border_radius=60&layout=compact&theme=dark&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
