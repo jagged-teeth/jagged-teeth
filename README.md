@@ -68,7 +68,7 @@ Feel free to explore more of my projects on [GitHub](https://github.com/DimiOui/
 
 ## :briefcase: Seeking 6-Month Internship
 
-I am currently seeking a 6-month internship opportunity where I can apply my skills and passion for programming. I have a particular interest in networking, however I am open to exploring other areas as well, as I believe that every domain has its unique challenges and opportunities for growth. GreenIT is a field that I find intriguing, as it aligns with my desire to make a meaningful impact and contribute to helping the planet. Additionally, I would love to collaborate with indie game studios or publishers, as this aligns with my passion for gaming and the creative aspects of game development.
+I am currently seeking a 6-month internship opportunity where I can apply my skills and passion for programming. I have a particular interest in networking and fullstack development, however I am open to exploring other areas as well, as I believe that every domain has its unique challenges and opportunities for growth. GreenIT is a field that I find intriguing, as it aligns with my desire to make a meaningful impact and contribute to helping the planet. Additionally, I would love to collaborate with indie game studios or publishers, as this aligns with my passion for gaming and the creative aspects of game development.
 
 If you have any internship opportunities or would like to discuss potential collaborations, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimitri-paccagnini/).
 
