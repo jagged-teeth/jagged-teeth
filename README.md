@@ -3,7 +3,7 @@
 ### :man_technologist: Hi, I'm Dimi, a passionate learner and aspiring developer currently studying at [42School](https://42.fr/en/homepage/).
 
 <div id="header" align="center">
-  <img src="https://www.lewuathe.com/assets/img/posts/2022-11-09-vhs-language-cheat-sheet/hello.gif" height="300"/>
+  <img src="https://i.postimg.cc/prDLxN4t/888-pixelicious.png"/>
 </div>
 
 ### :bulb: Curiosity is My Driving Force
