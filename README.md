@@ -3,7 +3,7 @@
 ### :man_technologist: Hi, I'm Dimi, a passionate learner and aspiring developer currently studying at [42School](https://42.fr/en/homepage/).
 
 <div id="header" align="center">
-  <img src="https://i.postimg.cc/prDLxN4t/888-pixelicious.png"/>
+  <img src="https://i.ibb.co/XjGLLLG/888-pixelicious.png" height="400"/>
 </div>
 
 ### :bulb: Curiosity is My Driving Force
