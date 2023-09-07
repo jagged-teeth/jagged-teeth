@@ -57,7 +57,7 @@ I'm delighted to share some of my favorite projects that I've worked on:
  <summary>CUBE3D</summary>
  
 ### Project Description
-[Minishell](https://github.com/DimiOui/42-Cub3D) is a simple raycasting game engine inspired by the classic game Wolfenstein 3D. It utilizes the concept of raycasting to render a 3D graphical representation of a maze-like environment.
+[Cube3d](https://github.com/DimiOui/42-Cub3D) is a simple raycasting game engine inspired by the classic game Wolfenstein 3D. It utilizes the concept of raycasting to render a 3D graphical representation of a maze-like environment.
 
 ### Skills acquired
 - Raycasting / Graphics programming
