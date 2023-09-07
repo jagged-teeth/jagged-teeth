@@ -54,14 +54,18 @@ I'm delighted to share some of my favorite projects that I've worked on:
 - Fault-tolerance design.
 </details>
 <details>
- <summary>MINISHELL</summary>
+ <summary>CUBE3D</summary>
  
 ### Project Description
-[Minishell](https://github.com/DimiOui/minishell) is an implementation from scratch in C of a bash interpreter. It utilizes various Unix system calls such as fork, pipe, signal, stat, and execve to provide a functional shell environment.
+[Minishell](https://github.com/DimiOui/42-Cub3D) is a simple raycasting game engine inspired by the classic game Wolfenstein 3D. It utilizes the concept of raycasting to render a 3D graphical representation of a maze-like environment.
 
 ### Skills acquired
-- Unix system calls (fork, pipe, signal, stat, execve, ...)
-- Parallel execution.
+- Raycasting / Graphics programming
+- 2D Game engine development
+- Map parsing and validation
+- Collision detection
+- Optimization techniques
+- Understanding of linear algebra
 </details>
 
 Feel free to explore more of my projects on [GitHub](https://github.com/DimiOui/)!
