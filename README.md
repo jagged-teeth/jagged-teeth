@@ -29,17 +29,18 @@ My journey has been anything but linear. I've worn multiple hats throughout my l
 I'm delighted to share some of my favorite projects that I've worked on:
 
 <details>
- <summary>FT_TRANSCENDANCE</summary>
+ <summary>SCOP</summary>
 
  ### Project description
-[Ft_transcendance](https://github.com/misteriaud/ft_transcendence) is a Docker-compose deployable webgame that features social-networking mechanisms such as friendships, direct-messages, and profile pictures. It includes a real-time multiplayer version of the classic game Pong and a chatroom with administration roles. The project also implements authentication using OAuth2 (through the 42school provider) and a 2FA-TOTP implementation. It is built on top of NestJS as the backend, PostgreSQL as the database, and ReactJS/Tailwind as the frontend.
+[SCOP](https://github.com/DimiOui/42-PCC-SCOP) is a project that explores basic GPU rendering through Vulkan, rendering a textured model within a GLFW window using C++. The model, sourced from an OBJ file and textured from a BMP file, rotates continuously around its central axis. Users can zoom in/out on the model.
 
 ### Skills acquired
-- REST API concepts.
-- Websockets.
-- Multiplayer network gaming concepts (prediction, latency management, ...)
-- Interface between NestJS Object-oriented data-structure and PostgreSQL relational database via Prisma.
-- Authentication and authorization standards (OAuth2, JWT, Password hashing, TOTP).
+- GPU Rendering Knowledge
+- Graphics Programming
+- 3D loading and rendering
+- Texture loading and mapping
+- Vertex Processing
+- Shader compilation
 </details>
 <details>
  <summary>WEBSERV</summary>
@@ -62,6 +63,7 @@ I'm delighted to share some of my favorite projects that I've worked on:
 ### Skills acquired
 - Raycasting / Graphics programming
 - 2D Game engine development
+- Window and event management
 - Map parsing and validation
 - Collision detection
 - Optimization techniques
