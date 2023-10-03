@@ -43,16 +43,17 @@ I'm delighted to share some of my favorite projects that I've worked on:
 - Shader compilation
 </details>
 <details>
- <summary>WEBSERV</summary>
+ <summary>FT_TRANSCENDANCE</summary>
  
 ### Project description
-[Webserv](https://github.com/ouafabulous/webserv_42) is a fully configurable home-made web server implemented in C++. It follows the HTTP/1.1 RFC and employs an IO concurrent design pattern to serve as many successful requests as possible. The server can handle operations such as GET/POST/DELETE files, directory listing, and CGI execution.
+[Ft_transcendance](https://github.com/misteriaud/ft_transcendence) is a Docker-compose deployable webgame that features social-networking mechanisms such as friendships, direct-messages, and profile pictures. It includes a real-time multiplayer version of the classic game Pong and a chatroom with administration roles. The project also implements authentication using OAuth2 (through the 42school provider) and a 2FA-TOTP implementation. It is built on top of NestJS as the backend, PostgreSQL as the database, and ReactJS/Tailwind as the frontend.
 
 ### Skills acquired
-- TCP connections via system calls (epoll, socket, accept, listen, send, recv, ...)
-- Event-driven architecture and concurrent computing.
-- RFC/Protocols understanding.
-- Fault-tolerance design.
+- REST API concepts.
+- Websockets.
+- Multiplayer network gaming concepts (prediction, latency management, ...)
+- Interface between NestJS Object-oriented data-structure and PostgreSQL relational database via Prisma.
+- Authentication and authorization standards (OAuth2, JWT, Password hashing, TOTP).
 </details>
 <details>
  <summary>CUBE3D</summary>
