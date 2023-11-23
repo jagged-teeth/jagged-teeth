@@ -18,7 +18,7 @@ As a backpacker, I traveled through Europe, Asia and the United-States, immersin
 
 ### :video_game: Passion for Videogames
 
-Apart from coding, I have a deep passion for videogames, always eager to discover the latest releases in the industry (recently Dave The Diver and Diablo IV). I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
+Apart from coding, I have a deep passion for videogames, always eager to discover the latest releases in the industry (recently Dave The Diver, Astral Ascent or Baldur's Gate III). I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
 
 ### :hammer_and_wrench: From Welding to Programming
 
