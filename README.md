@@ -9,7 +9,7 @@
 ### :bulb: Curiosity is My Driving Force
 I believe that curiosity is the key to continuous growth and personal development. Throughout my life, I've been fortunate to embark on various adventures that have shaped my perspective.
 I grew up in Arizona, surrounded by deserts, cacti, and American culture. The vivid memories of that period are etched in my mind. The scorching heat of Phoenix carries a distinct scent that is incomparable to the lush humidity of France, where I returned in 1996.
-Inspired by movies like **Matrix** and **Ghost In the Shell**, video-games such as **MYST**, **Warcraft III**, **Conker : A Bad Fur Day** or **Dwarf Fortress**, and animes like **Serial Experiment Lain**, I developed a deep passion for science-fiction and the realms of imagination.
+Inspired by movies like **Matrix** and **Ghost In the Shell**, video-games such as **MYST**, **Warcraft III**, **Conker : A Bad Fur Day** or **Dwarf Fortress**, and animes like **Serial Experiment Lain**, I developed a deep passion for science-fiction, fantasy and the realms of imagination.
 As I delved into passionate readings of novels from various countries, and embraced the open-mindedness instilled in me by my family, I also explored niche music genres, which I practice today on my computer.
 
 ### :earth_asia: Embracing Diversity
