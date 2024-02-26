@@ -18,7 +18,7 @@ As a backpacker, I traveled through Europe, Asia and the United-States, immersin
 
 ### :video_game: Passion for Videogames
 
-Apart from coding, I have a deep passion for videogames, always eager to discover the latest releases in the industry (recently Dave The Diver, Astral Ascent or Baldur's Gate III). I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
+Apart from coding, I have a deep passion for videogames, always eager to discover the latest releases in the industry (recently Balatro, Helldivers 2 or Baldur's Gate III). I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
 
 ### :hammer_and_wrench: From Welding to Programming
 
@@ -32,7 +32,7 @@ I'm delighted to share some of my favorite projects that I've worked on:
  <summary>SCOP</summary>
 
  ### Project description
-[SCOP](https://github.com/DimiOui/42-PCC-SCOP) is a project that explores basic GPU rendering through Vulkan, rendering a textured model within a GLFW window using C++. The model, sourced from an OBJ file and textured from a BMP file, rotates continuously around its central axis. Users can zoom in/out on the model.
+[SCOP](https://github.com/DimiOui/42-PCC-SCOP) is a project that explores basic GPU rendering through Vulkan, rendering a textured model within a GLFW window using C++. The model, sourced from an OBJ file and textured from a BMP file, rotates continuously around its central axis. Users can zoom in/out on the model, move around it and change the shaders on the run.
 
 ### Skills acquired
 - GPU Rendering Knowledge
@@ -75,9 +75,9 @@ Feel free to explore more of my projects on [GitHub](https://github.com/DimiOui/
 
 ## :briefcase: Seeking 6-Month Internship
 
-I am currently seeking a 6-month internship opportunity where I can apply my skills and passion for programming. I have a particular interest in networking and fullstack development, however I am open to exploring other areas as well, as I believe that every domain has its unique challenges and opportunities for growth. GreenIT is a field that I find intriguing, as it aligns with my desire to make a meaningful impact and contribute to helping the planet. Additionally, I would love to collaborate with indie game studios or publishers, as this aligns with my passion for gaming and the creative aspects of game development.
+I'm actively seeking a role in game development where I can bring my unique blend of skills and passions to life. I'm particularly interested in contributing to indie game studios or publishers, driven by a desire to be part of creating new and immersive gaming experiences.
 
-If you have any internship opportunities or would like to discuss potential collaborations, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimitri-paccagnini/).
+If you're looking for a dedicated, creative, and versatile game developer, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimitri-paccagnini/).
 
 <br/>
 <br/>
