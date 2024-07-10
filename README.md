@@ -66,7 +66,7 @@ I'm delighted to share some of my favorite projects that I've worked on:
 - Understanding of linear algebra
 </details>
 
-Feel free to explore more of my projects on [GitHub](https://github.com/DimiOui/)!
+Feel free to explore more of my [projects](https://github.com/jagged-teeth?tab=repositories)!
 
 <br/>
 <br/>
