@@ -1,7 +1,7 @@
  # About Me
 
 <div id="header" align="center">
-  <img src="https://ibb.co/hmZG774" height="400"/>
+  <img src="https://i.ibb.co/d5LNWWV/0e5629b1-ab57-4552-9877-2ec00296385a-pixelicious.png" height="400"/>
 </div>
 
 ### :bulb: Curiosity is My Driving Force
