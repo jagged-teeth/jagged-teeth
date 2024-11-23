@@ -25,7 +25,7 @@ I'm delighted to share some of my favorite projects that I've worked on:
  <summary>FT_TRANSCENDANCE</summary>
  
 ### Project description
-[Ft_transcendance](https://github.com/misteriaud/ft_transcendence) is a Docker-compose deployable webgame that features social-networking mechanisms such as friendships, direct-messages, and profile pictures. It includes a real-time multiplayer version of the classic game Pong and a chatroom with administration roles. The project also implements authentication using OAuth2 (through the 42school provider) and a 2FA-TOTP implementation. It is built on top of NestJS as the backend, PostgreSQL as the database, and ReactJS/Tailwind as the frontend.
+[Ft_transcendance](https://github.com/misteriaud/ft_transcendence) is a Docker-compose deployable webgame that features social-networking mechanisms such as friendships, direct-messages, and profile pictures. It includes a real-time multiplayer version of the classic game Pong and a chatroom with administration roles. The project also implements authentication using OAuth2 (through the 42API provider) and a 2FA-TOTP implementation. It is built on top of NestJS as the backend, PostgreSQL as the database, and ReactJS/Tailwind as the frontend.
 
 ### Skills acquired
 - REST API concepts.
