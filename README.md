@@ -49,12 +49,4 @@ I'm delighted to share some of my favorite projects that I've worked on:
 - Understanding of linear algebra
 </details>
 
-Feel free to explore more of my [projects](https://github.com/jagged-teeth?tab=repositories)!
-
-<br/>
-<br/>
-<br/>
-
-Thank you for taking the time to explore my profile. I hope you find my projects intriguing and my passion for learning and creating evident. Let's connect and create something amazing together!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagged-teeth&hide_border=true&border_radius=3&layout=compact&theme=dark&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+Feel free to explore more of my public [projects](https://github.com/jagged-teeth?tab=repositories)!
