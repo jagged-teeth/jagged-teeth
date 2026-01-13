@@ -1,7 +1,6 @@
  # About Me
 
-I currently work at Fishing Cactus as a freelance game developer, focusing on Unreal Engine 5. My main responsibilities involve developing open-world AI interactions, bringing immersive and dynamic experiences to life within the game environment.
-I have a deep passion for videogames, always eager to discover the latest releases in the industry. I find them to be a remarkable form of art and storytelling that can transport us to different worlds and evoke emotions. Exploring the intersections of technology and gaming is an area that truly excites me.
+Freelance SWE
 
 ## Projects I'm Proud of
 
